@@ -1,0 +1,73 @@
+[Input data]
+# add input data (samples) description
+#network_file= source_path + "/../../data/Math_dataset/mouse_embryonic_stem_cell_net.csv"
+
+#gene_expression_table=source_path + "/../../data//Math_dataset/Net_Zene/cpm_table.csv",
+#sample_group_table=source_path + "/../../data/Math_dataset/sample_groups.csv",
+#displayed_groups=["Fibroblast", "ESC", "iPSC", "GL261_Control"],
+#pair_comparison_groups=["Fibroblast", "ESC"],
+#fit_data=source_path + "/../../data/Math_dataset/Net_Zene/edgeR_fit_result/RUVs_k50edgeR_original.RDS"
+
+[General]
+# General information about
+
+#Output directory
+#outdir = RESULT
+
+#Name of the run
+#run_name = run1
+
+
+
+##################################################
+
+[Pipeline general]
+#Items that exit in every pipeline
+
+# pipeline name
+pipeline_name =  get_network_layout_from_fit_data
+
+#cluster_config = cluster.config.csv
+
+
+#Steps to run. if '-' before step name, this step will be run in simulated mode, not submitting to cluster but printout the sbatch command
+#steps = get_count_from_sra, consolidate_counts, check_count_and_consolidate_step, get_fit_data, get_fit_data_from_count_step, get_comparisons,net_zene_from_fit_data, get_network_layout_from_fit_data, get_subnets_from_network_layout,  get_subnet_image_jobs, get_network_data_step, save_network_image
+
+
+[Pipeline specific]
+#Items - configurations parameters uniques for the pipeline/Layer
+## pipeline specific intialization variables
+
+graph_format="ncol",
+clustering_method="louvain"
+max_cluster_size=100
+ndim=2
+layout_method="fr"
+node_score_field="logFC"
+sampling_size=1000
+beta=0.5
+n_top_annotation=3
+importance_field="score"
+n_top_genes=3
+space_ratios=[1, 4]
+n_top_gene_network_drawing=20
+resolution=24
+scale=1
+node_size_ratio=1
+draw_heatmap=True
+selected_fields="node_name,score,logFC,description,summary,subnet_name,degree,pvalue,fdr,annotation"
+subnet_coloring_with_sign=True
+gene_count_table=None,
+consider_positive_values_only=True,
+gene_statistics_list="logFC,fdr,betweenness"
+fdr_to_confidence=False
+nround=1
+steps_combined=True
+top_genes=0.2
+source_node_inclusion="p"
+neighbor_aggregation_method="s"
+is_log_gene_expression_table=False
+do_get_subnet_image=False
+do_extract_subnet_data=False
+
+

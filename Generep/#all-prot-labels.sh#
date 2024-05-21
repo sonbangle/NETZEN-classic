@@ -1,0 +1,14 @@
+#!/bin/bash
+
+BIN=~/collab/dtran/TCGA/bin
+DB=$BIN/mirna.db
+
+TUMOR=$1
+
+cd $TUMOR
+$BIN/mirna.py pdata $DB $TUMOR expressions.txt prot-labels.csv > prot-expressions.txt
+mv expressions.txt expressions.old
+grep -v ^pr_ expressions.old > expressions.preimp.txt
+tail -n +2 prot-expressions.txt >> expressions.preimp.txt
+$BIN/boost.py expressions.preimp.txt prot-labels.csv expressions.txt
+cd ..

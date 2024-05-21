@@ -1,0 +1,415 @@
+sample	group	Description
+SRR1813558	HUMAN_GBM_CSC	cultured in neurobasal medium containing N2, B27, human recombinant basic FGF and EGF
+SRR1813559	HUMAN_GBM_CSC	cultured in neurobasal medium containing N2, B27, human recombinant basic FGF and EGF
+SRR869704	HUMAN_GBM_CSC	"human GBM-derived ""stem-like"" cells"
+SRR2175385	HUMAN_GBM_CSC	Primary Patient Derived Tumor Model
+SRR2175386	HUMAN_GBM_CSC	Primary Patient Derived Tumor Model
+SRR2584798	HUMAN_GBM_CSC	MGH4 Glioma stem-like cells, celline MGG4, Cancer stem like cells, glioma cell line
+SRR2584799	HUMAN_GBM_CSC	MGH4 Glioma stem-like cells, celline MGG4, Cancer stem like cells, glioma cell line
+SRR4011057	HUMAN_GBM_CSC	stem cells
+SRR4011058	HUMAN_GBM_CSC	stem cells
+SRR4011059	HUMAN_GBM_CSC	stem cells
+SRR4011060	HUMAN_GBM_CSC	stem cells
+SRR2584790	HUMAN_GBM_CSC	MGG4, glioma cell line, CSC like
+SRR2584792	HUMAN_GBM_CSC	MGG4, glioma cell line, CSC like
+SRR4011061	HUMAN_GBM	non-stem cells
+SRR4011062	HUMAN_GBM	non-stem cells
+SRR2188664	HUMAN_GBM	GBM cell line 4 passage
+SRR1609728	HUMAN_GBM	RNA from GBM stem cells
+SRR1609730	HUMAN_GBM	RNA from GBM stem cells
+SRR3313625	HUMAN_GBM	tumor model 3691, patient dervied tumor model
+SRR3313628	HUMAN_GBM	tumor model 3691, patient dervied tumor model
+SRR3313631	HUMAN_GBM	tumor model 3691, patient dervied tumor model
+SRR1633194	HUMAN_GBM	brain tissue from glioma grade IV
+SRR1633195	HUMAN_GBM	brain tissue from glioma grade IV
+SRR4095542	HUMAN_GBM	GBM , male patient
+SRR4095543	HUMAN_GBM	GBM , male patient
+SRR4095544	HUMAN_GBM	GBM , male patient
+SRR3141969	HUMAN_GBM	grade 4 GBM
+SRR3141970	HUMAN_GBM	grade 4 GBM
+SRR3141971	HUMAN_GBM	grade 4 GBM
+SRR3141972	HUMAN_GBM	grade 4 GBM
+SRR3141973	HUMAN_GBM	grade 4 GBM
+SRR3141974	HUMAN_GBM	grade 4 GBM
+SRR3141975	HUMAN_GBM	grade 4 GBM
+SRR3141976	HUMAN_GBM	grade 4 GBM
+SRR3141977	HUMAN_GBM	grade 4 GBM
+SRR3141978	HUMAN_GBM	grade 4 GBM
+SRR3141979	HUMAN_GBM	grade 4 GBM
+SRR3141980	HUMAN_GBM	grade 4 GBM
+SRR3141981	HUMAN_GBM	grade 4 GBM
+SRR3141982	HUMAN_GBM	grade 4 GBM
+SRR3141983	HUMAN_GBM	grade 4 GBM
+SRR3141984	HUMAN_GBM	grade 4 GBM
+SRR3141985	HUMAN_GBM	grade 4 GBM
+SRR3141986	HUMAN_GBM	grade 4 GBM
+SRR3141987	HUMAN_GBM	grade 4 GBM
+SRR3141988	HUMAN_GBM	grade 4 GBM
+SRR3141989	HUMAN_GBM	grade 4 GBM
+SRR3141990	HUMAN_GBM	grade 4 GBM
+SRR3141991	HUMAN_GBM	grade 4 GBM
+SRR3141992	HUMAN_GBM	grade 4 GBM
+SRR3141993	HUMAN_GBM	grade 4 GBM
+SRR3141994	HUMAN_GBM	grade 4 GBM
+SRR3141995	HUMAN_GBM	grade 4 GBM
+SRR3141996	HUMAN_GBM	grade 4 GBM
+SRR3141997	HUMAN_GBM	grade 4 GBM
+SRR3141998	HUMAN_GBM	grade 4 GBM
+SRR3141999	HUMAN_GBM	grade 4 GBM
+SRR3142000	HUMAN_GBM	grade 4 GBM
+SRR2924169	HUMAN_GBM	GBM
+SRR2924173	HUMAN_GBM	GBM
+SRR2016978	HUMAN_GBM	cell line: U251
+SRR2016979	HUMAN_GBM	cell line: U251
+SRR2016980	HUMAN_GBM	cell line: U251
+SRR359291	HUMAN_GBM	tumor, GBM
+SRR2353136	HUMAN_GBM	u87 gbm in dmem
+SRR2353137	HUMAN_GBM	t98g gbm in dmem
+SRR2353138	HUMAN_GBM	8-mg gbm in dmem
+SRR2353139	HUMAN_GBM	42-mg gbm in dmem
+SRR3039602	HUMAN_HSC	neonatal cord blood HSC
+SRR3039608	HUMAN_HSC	neonatal cord blood HSC
+SRR1739300	HUMAN_HSC	umbilical cord blood hematopoietic stem cells
+SRR2040265	HUMAN_HSC	BM, cd34+ cd38 neg lin neg
+SRR2040266	HUMAN_HSC	BM, cd34+ cd38 neg lin neg
+SRR1910386	HUMAN_HSC	cd34+ cells from cord blood treated with dmso
+SRR1842716	HUMAN_MACROPHAGES	unstim. Primary human macros
+SRR1842717	HUMAN_MACROPHAGES	unstim. Primary human macros
+SRR1842718	HUMAN_MACROPHAGES	unstim. Primary human macros
+SRR3402538	HUMAN_MACROPHAGES	human monocyte derived macrops from blood
+SRR3402539	HUMAN_MACROPHAGES	human monocyte derived macrops from blood
+SRR3402540	HUMAN_MACROPHAGES	human monocyte derived macrops from blood
+SRR3402541	HUMAN_MACROPHAGES	human monocyte derived macrops from blood
+SRR3402542	HUMAN_MACROPHAGES	human monocyte derived macrops from blood
+SRR3402543	HUMAN_MACROPHAGES	human monocyte derived macrops from blood
+SRR2005990	HUMAN_MACROPHAGES	human peripheral blood monocytes differentited to macros with M-CSF
+SRR2005992	HUMAN_MACROPHAGES	human peripheral blood monocytes differentited to macros with M-CSF
+SRR2005994	HUMAN_MACROPHAGES	human peripheral blood monocytes differentited to macros with M-CSF
+SRR2939131	HUMAN_MACROPHAGES	pbmc derived acrophage
+SRR2939132	HUMAN_MACROPHAGES	pbmc derived acrophage
+SRR2939133	HUMAN_MACROPHAGES	M1-polarized HMDM
+SRR2939134	HUMAN_MACROPHAGES	M1-polarized HMDM
+SRR2939135	HUMAN_MACROPHAGES	M2-polarized HMDM
+SRR2939136	HUMAN_MACROPHAGES	M2-polarized HMDM
+SRR1289650	HUMAN_MACROPHAGES	primary macros with a barcode:CGATGT
+SRR1174695	HUMAN_MACROPHAGES	monocyte derived macros
+SRR452328	HUMAN_MACROPHAGES	monocytes derived macros - m1s
+SRR452329	HUMAN_MACROPHAGES	monocytes derived macros - m1s
+SRR452330	HUMAN_MACROPHAGES	monocytes derived macros - m1s
+SRR452331	HUMAN_MACROPHAGES	monocytes derived macros - m2s
+SRR452332	HUMAN_MACROPHAGES	monocytes derived macros - m2s
+SRR452333	HUMAN_MACROPHAGES	monocytes derived macros - m2s
+SRR2919782	HUMAN_MONOCYTES	monocyte from blood from healthy volunteer
+SRR2919783	HUMAN_MONOCYTES	monocyte from blood from healthy volunteer
+SRR2919784	HUMAN_MONOCYTES	monocyte from blood from healthy volunteer
+SRR2919785	HUMAN_MONOCYTES	monocyte from blood from healthy volunteer
+SRR1740042	HUMAN_MONOCYTES	primary human monocytes
+SRR1740070	HUMAN_MONOCYTES	primary human monocytes
+SRR2072602	HUMAN_MONOCYTES	healthy CD14+ monocytes
+SRR2072606	HUMAN_MONOCYTES	healthy CD14+ monocytes
+SRR2072610	HUMAN_MONOCYTES	healthy CD14+ monocytes
+SRR1613933	HUMAN_MONOCYTES	healthy volunteer monocytes
+SRR3647475	HUMAN_MONOCYTES	monocytes from human donors
+SRR3647489	HUMAN_MONOCYTES	monocytes from human donors
+SRR1613937	HUMAN_GRANULOCYTES	healthy volunteer Granulocytes
+SRR4040135	HUMAN_ESC	undifferentiated embryonic stem cells in matrigel
+SRR4040136	HUMAN_ESC	undifferentiated embryonic stem cells in matrigel
+SRR4040137	HUMAN_ESC	undifferentiated embryonic stem cells in matrigel
+SRR4040138	HUMAN_ESC	undifferentiated embryonic stem cells in matrigel
+SRR4040139	HUMAN_ESC	undifferentiated embryonic stem cells in matrigel
+SRR4040140	HUMAN_ESC	undifferentiated embryonic stem cells in matrigel
+SRR4241924	HUMAN_ESC	ESC frin H9 cells
+SRR4241925	HUMAN_ESC	ESC frin H9 cells
+SRR4241926	HUMAN_ESC	ESC frin H9 cells
+SRR4290857	HUMAN_ESC	hESCs from WT
+SRR2069387	HUMAN_ESC	h9 hESCs
+SRR2069388	HUMAN_ESC	h9 hESCs
+SRR2069389	HUMAN_ESC	h9 hESCs
+SRR3713907	HUMAN_ESC	untreated hESC
+SRR2453315	HUMAN_ESC	isogenic escs
+SRR2453316	HUMAN_ESC	isogenic escs
+SRR2453317	HUMAN_ESC	isogenic escs
+SRR2453328	HUMAN_ESC	isogenic escs
+SRR2453329	HUMAN_ESC	isogenic escs
+SRR2453330	HUMAN_ESC	isogenic escs
+SRR2453331	HUMAN_ESC	isogenic escs
+SRR3470678	HUMAN_ESC	G0/G1 normal ESCs, p50, female
+SRR517997	HUMAN_ESC	H1-hESC
+SRR2453301	HUMAN_IPSC	isogenic ipscs
+SRR2453303	HUMAN_IPSC	isogenic ipscs
+SRR2453304	HUMAN_IPSC	isogenic ipscs
+SRR2453306	HUMAN_IPSC	isogenic ipscs
+SRR2453308	HUMAN_IPSC	isogenic ipscs
+SRR2453310	HUMAN_IPSC	isogenic ipscs
+SRR2734264	HUMAN_IPSC	control iPSCs
+SRR2734265	HUMAN_IPSC	control iPSCs
+SRR2734266	HUMAN_IPSC	control iPSCs
+SRR2734267	HUMAN_IPSC	control iPSCs
+SRR2734268	HUMAN_IPSC	control iPSCs
+SRR2734269	HUMAN_IPSC	control iPSCs
+SRR2734270	HUMAN_IPSC	control iPSCs
+SRR2734271	HUMAN_IPSC	control iPSCs
+SRR1919615	HUMAN_IPSC	healthy control
+SRR3921603	HUMAN_IPSC	human induced pluripotent stem cell
+SRR3921604	HUMAN_IPSC	human induced pluripotent stem cell
+SRR3921605	HUMAN_IPSC	human induced pluripotent stem cell
+SRR1950868	HUMAN_IPSC	iPSCs from control young patients
+SRR1950869	HUMAN_IPSC	iPSCs from control young patients
+SRR1950870	HUMAN_IPSC	iPSCs from control young patients
+SRR1950871	HUMAN_IPSC	iPSCs from control young patients
+SRR1950872	HUMAN_IPSC	iPSCs from control young patients
+SRR1950873	HUMAN_IPSC	iPSCs from control young patients
+SRR1950874	HUMAN_IPSC	iPSCs from control young patients
+SRR1950875	HUMAN_IPSC	iPSCs from control young patients
+SRR1950876	HUMAN_IPSC	iPSCs from control young patients
+SRR1950877	HUMAN_IPSC	iPSCs from control young patients
+SRR1950878	HUMAN_IPSC	iPSCs from control young patients
+SRR4290863	HUMAN_IPSC	iPSCs from WT
+SRR2939137	HUMAN_IPSC	Induced pluripotent stem cell
+SRR2939138	HUMAN_IPSC	Induced pluripotent stem cell
+SRR2939139	HUMAN_IPSC	Induced pluripotent stem cell
+SRR2939140	HUMAN_IPSC	Induced pluripotent stem cell
+SRR2910666	HUMAN_IPSC	Induced pluripotent stem cell
+SRR2910667	HUMAN_IPSC	Induced pluripotent stem cell
+SRR4422200	HUMAN_IPSC	53 y o ipscs from fibroblast
+SRR4422201	HUMAN_IPSC	54 y o ipscs from fibroblast
+SRR1200250	HUMAN_IPSC	ipscs from ATR1 line (CD4+ cells)
+SRR1198658	HUMAN_IPSC	ipscs from ATR1 line (CD4+ cells)
+SRR1198659	HUMAN_IPSC	ipscs from ATR1 line (CD4+ cells)
+SRR1198660	HUMAN_IPSC	ipscs from ATR1 line (CD4+ cells)
+SRR2392980	HUMAN_IPSC	differentiated from neural progenitors cells
+SRR2392981	HUMAN_IPSC	differentiated from neural progenitors cells
+SRR4421761	HUMAN_IPSC	Homo sapiens induced pluripotent stem cell line male adult (53 years) derived from fibroblast of arm
+SRR4421762	HUMAN_IPSC	Homo sapiens induced pluripotent stem cell line male adult (53 years) derived from fibroblast of arm
+SRR517999	HUMAN_IPSC	iPSCs derived from foreskin
+SRR518000	HUMAN_IPSC	iPSCs derived from lung fibroblasts
+SRR1740034	HUMAN_B_CELLS	primary human B cells
+SRR1740062	HUMAN_B_CELLS	primary human B cells
+SRR1613932	HUMAN_B_CELLS	healthy volunteer CD4- CD8- CD56/CD16- CD19+
+SRR3647474	HUMAN_B_CELLS	B cells cells from human donor
+SRR3647488	HUMAN_B_CELLS	B cells cells from human donor
+SRR1740074	HUMAN_NEUTROPHILS	primary human neutrophils
+SRR1740046	HUMAN_NEUTROPHILS	primary human neutrophils
+SRR1740086	HUMAN_T_CELLS	primary human T cells
+SRR1740058	HUMAN_T_CELLS	primary human T cells
+SRR1613934	HUMAN_T_CELLS	healthy volunteer memory t cells CD4+ CD8- CD45RO+ and CD4- CD8+ CD45RO+
+SRR1613935	HUMAN_CD4	healthy volunteer CD4+ CD8- CD45RO-
+SRR4454303	HUMAN_CD4	t conventional cells from blood CD45RA+
+SRR4454304	HUMAN_CD4	t conventional cells from blood CD45RA+
+SRR4454305	HUMAN_CD4	activated t conventional cells from blood CD45RO+
+SRR4454306	HUMAN_CD4	activated t conventional cells from blood CD45RO+
+SRR4454307	HUMAN_CD4	t conventional cells from blood CD45RA+
+SRR4454308	HUMAN_CD4	t conventional cells from blood CD45RA+
+SRR4454309	HUMAN_CD4	activated t conventional cells from blood CD45RO+
+SRR4454310	HUMAN_CD4	activated t conventional cells from blood CD45RO+
+SRR4454432	HUMAN_CD4	tregs from blood
+SRR4454433	HUMAN_CD4	activated tregs from blood
+SRR4454434	HUMAN_CD4	tregs from blood
+SRR4454435	HUMAN_CD4	tregs from blood
+SRR4454436	HUMAN_CD4	activated tregs from blood
+SRR4454437	HUMAN_CD4	activated tregs from blood
+SRR3647476	HUMAN_CD4	cd4+ cells from human donor
+SRR3647490	HUMAN_CD4	cd4+ cells from human donor
+SRR3724617	HUMAN_CD4	CD4+ memory T cells from blood of healthy
+SRR3724618	HUMAN_CD4	CD4+ naive T cells from blood of healthy
+SRR3724621	HUMAN_CD4	CD4+ memory T cells from blood of healthy
+SRR3724622	HUMAN_CD4	CD4+ naive T cells from blood of healthy
+SRR3724625	HUMAN_CD4	CD4+ memory T cells from blood of healthy
+SRR3724626	HUMAN_CD4	CD4+ naive T cells from blood of healthy
+SRR1615171	HUMAN_CD4	cd4 naïve human samples
+SRR1615180	HUMAN_CD4	cd4 naïve human samples
+SRR1613936	HUMAN_CD8	healthy volunteer CD4- CD8+ CD45RO-
+SRR3647477	HUMAN_CD8	cd8+ cells from human donor
+SRR3647491	HUMAN_CD8	cd8+ cells from human donor
+SRR3724619	HUMAN_CD8	CD8+ memory T cells from blood of healthy
+SRR3724620	HUMAN_CD8	CD8+ naive T cells from blood of healthy
+SRR3724623	HUMAN_CD8	CD8+ memory T cells from blood of healthy
+SRR3724624	HUMAN_CD8	CD8+ naive T cells from blood of healthy
+SRR3724627	HUMAN_CD8	CD8+ memory T cells from blood of healthy
+SRR3724628	HUMAN_CD8	CD8+ naive T cells from blood of healthy
+SRR1740050	HUMAN_NK_CELLS	primary human NK cells
+SRR1740078	HUMAN_NK_CELLS	primary human NK cells
+SRR1613931	HUMAN_NK_CELLS	healthy volunteer CD4- CD8- CD56/CD16+ CD19-
+SRR1725971	HUMAN_DENDRITIC_CELLS	monocyte derived dendritic cells not infected
+SRR1725973	HUMAN_DENDRITIC_CELLS	monocyte derived dendritic cells not infected
+SRR1725975	HUMAN_DENDRITIC_CELLS	monocyte derived dendritic cells not infected
+SRR2072599	HUMAN_DENDRITIC_CELLS_pDC	healthy plasmacytoid dendritic cells
+SRR2072600	HUMAN_DENDRITIC_CELLS	healthy CD1c+ myleoid dendritic cells
+SRR2072603	HUMAN_DENDRITIC_CELLS_pDC	healthy plasmacytoid dendritic cells
+SRR2072604	HUMAN_DENDRITIC_CELLS	healthy CD1c+ myleoid dendritic cells
+SRR2072607	HUMAN_DENDRITIC_CELLS_pDC	healthy plasmacytoid dendritic cells
+SRR2072608	HUMAN_DENDRITIC_CELLS	healthy CD1c+ myleoid dendritic cells
+SRR1740038	HUMAN_DENDRITIC_CELLS	primary human DCs
+SRR3554814	HUMAN_FIBROBLASTS	primary dermal fibroblast passage 5-7 normal genotype
+SRR3554818	HUMAN_FIBROBLASTS	primary dermal fibroblast passage 5-7 normal genotype
+SRR3554824	HUMAN_FIBROBLASTS	primary dermal fibroblast passage 5-7 normal genotype
+SRR2989057	HUMAN_FIBROBLASTS	Fetal Lung Fibroblast, cel line mrc-5 transduced with GFP
+SRR2989058	HUMAN_FIBROBLASTS	Fetal Lung Fibroblast, cel line mrc-5 transduced with GFP
+SRR2989059	HUMAN_FIBROBLASTS	Fetal Lung Fibroblast, cel line mrc-5 transduced with GFP
+SRR4421439	HUMAN_FIBROBLASTS	Homo sapiens cardiac ventricle fibroblast primary cell Illumina Hi-Seq RAMPAGE libraries from rRNA-depleted Total RNA > 200
+SRR4421440	HUMAN_FIBROBLASTS	Homo sapiens cardiac ventricle fibroblast primary cell Illumina Hi-Seq RAMPAGE libraries from rRNA-depleted Total RNA > 200
+SRR4421925	HUMAN_FIBROBLASTS	Homo sapiens bronchus fibroblast of lung primary cell Illumina Hi-Seq RAMPAGE libraries from rRNA-depleted Total RNA > 200
+SRR4421926	HUMAN_FIBROBLASTS	Homo sapiens bronchus fibroblast of lung primary cell Illumina Hi-Seq RAMPAGE libraries from rRNA-depleted Total RNA > 200
+SRR4421887	HUMAN_FIBROBLASTS	Homo sapiens fibroblast of arm primary cell male adult (53 years) biological replicate 1
+SRR4421888	HUMAN_FIBROBLASTS	Homo sapiens fibroblast of arm primary cell male adult (53 years) biological replicate 2
+SRR4421772	HUMAN_FIBROBLASTS	RAMPAGE from pericardium fibroblast Illumina Hi-Seq RAMPAGE libraries from rRNA-depleted Total RNA > 200 nucleotides in size.
+SRR4421773	HUMAN_FIBROBLASTS	RAMPAGE from pericardium fibroblast Illumina Hi-Seq RAMPAGE libraries from rRNA-depleted Total RNA > 200 nucleotides in size.
+SRR2747462	HUMAN_FIBROBLASTS	human foreskin fibroblast 48 hr after mock infection
+SRR2747471	HUMAN_FIBROBLASTS	human foreskin fibroblast 8 hr after mock infection
+SRR3680526	HUMAN_FIBROBLASTS	fibroblast cell line, Coriell Line ND29510, control
+SRR3680527	HUMAN_FIBROBLASTS	fibroblast cell line, Coriell Line ND29510, control
+SRR3680530	HUMAN_FIBROBLASTS	fibroblast cell line, Coriell Line ND38530, control
+SRR3680531	HUMAN_FIBROBLASTS	fibroblast cell line, Coriell Line ND38530, control
+SRR3158894	HUMAN_FIBROBLASTS	Fibroblasts; Cultured Skin, control
+SRR3158895	HUMAN_FIBROBLASTS	Fibroblasts; Cultured Skin, control
+SRR1509541	HUMAN_FIBROBLASTS	fibroblast, wt, passage 4-11, skin biopsy
+SRR1509542	HUMAN_FIBROBLASTS	fibroblast, wt, passage 4-11, skin biopsy
+SRR1509543	HUMAN_FIBROBLASTS	fibroblast, wt, passage 4-11, skin biopsy
+SRR1509544	HUMAN_FIBROBLASTS	fibroblast, wt, passage 4-11, skin biopsy
+SRR3125898	HUMAN_FIBROBLASTS	foreskin HDF, DMSO, INPUT, p4, EV
+SRR3125899	HUMAN_FIBROBLASTS	foreskin HDF, DMSO, INPUT, p4, EV
+SRR3125900	HUMAN_FIBROBLASTS	foreskin HDF, DMSO, INPUT, p4, EV
+SRR3125901	HUMAN_FIBROBLASTS	foreskin HDF, DMSO, INPUT, p4, EV
+SRR1784223	HUMAN_FIBROBLASTS	in vitro transformed human skin fibroblasts, uninduced
+SRR1784224	HUMAN_FIBROBLASTS	in vitro transformed human skin fibroblasts, uninduced
+SRR1784225	HUMAN_FIBROBLASTS	in vitro transformed human skin fibroblasts, uninduced
+SRR1928188	HUMAN_FIBROBLASTS	human intestinal fibroblasts, colon, control
+SRR1928189	HUMAN_FIBROBLASTS	human intestinal fibroblasts, colon, control
+SRR1928190	HUMAN_FIBROBLASTS	human intestinal fibroblasts, colon, control
+SRR2522093	HUMAN_FIBROBLASTS	WI38 cell line lung fibroblasts no treatment
+SRR3593456	HUMAN_FIBROBLASTS	gingival fibroblasts
+SRR3383318	HUMAN_FIBROBLASTS	Human Adult Dermal Fibroblasts. Empty control vector
+SRR3383319	HUMAN_FIBROBLASTS	Human Adult Dermal Fibroblasts. Empty control vector
+SRR3383320	HUMAN_FIBROBLASTS	Human Adult Dermal Fibroblasts. Empty control vector
+SRR3383321	HUMAN_FIBROBLASTS	Human Adult Dermal Fibroblasts. Empty control vector
+SRR3383322	HUMAN_FIBROBLASTS	Human Adult Dermal Fibroblasts. Empty control vector
+SRR3383323	HUMAN_FIBROBLASTS	Human Adult Dermal Fibroblasts. Empty control vector
+SRR3470679	HUMAN_FIBROBLASTS	human foreskin fibroblasts, p2, male somatic cells
+SRR3594565	HUMAN_ASTROCYTES	normal human astrocytes from lonza, tissue culture polystyrene growth conditions, donor A
+SRR3594566	HUMAN_ASTROCYTES	normal human astrocytes from lonza, peptide hydrogel puramatrix growth conditions, donor A
+SRR3594567	HUMAN_ASTROCYTES	normal human astrocytes from lonza, tissue culture polystyrene growth conditions, donor B
+SRR3594568	HUMAN_ASTROCYTES	normal human astrocytes from lonza, peptide hydrogel puramatrix growth conditions, donor B
+SRR3594569	HUMAN_ASTROCYTES	normal human astrocytes from lonza, tissue culture polystyrene growth conditions, donor A
+SRR3594570	HUMAN_ASTROCYTES	normal human astrocytes from lonza, peptide hydrogel puramatrix growth conditions, donor A
+SRR3594571	HUMAN_ASTROCYTES	normal human astrocytes from lonza, tissue culture polystyrene growth conditions, donor B
+SRR3594572	HUMAN_ASTROCYTES	normal human astrocytes from lonza, peptide hydrogel puramatrix growth conditions, donor B
+SRR4869639	HUMAN_ASTROCYTES	astrocytes from cerebellum treated with vehicle first replicate
+SRR4869641	HUMAN_ASTROCYTES	astrocytes from cerebellum treated with vehicle second replicate
+SRR4869642	HUMAN_ASTROCYTES	astrocytes from cerebellum treated with vehicle third replicate
+SRR4869648	HUMAN_ASTROCYTES	astrocytes from cortex treated with vehcile 2 replicates
+SRR4869650	HUMAN_ASTROCYTES	astrocytes from cortex treated with vehcile 2 replicates
+SRR3392365	HUMAN_ASTROCYTES	astrocytes from CNS and expnded in 50/50 mixture of DMEM-F12, 10%FBS/MEGM with supplements
+SRR3392366	HUMAN_ASTROCYTES	astrocytes from CNS and expnded in 50/50 mixture of DMEM-F12, 10%FBS/MEGM with supplements
+SRR3192576	HUMAN_ASTROCYTES	primary astrocytes with not much else known
+SRR3192577	HUMAN_ASTROCYTES	primary astrocytes with not much else known
+SRR2557089	HUMAN_ASTROCYTES	adult temporal lobe, 8 y o, hepaCAM+ cells astrocytes
+SRR2557090	HUMAN_ASTROCYTES	adult temporal lobe, 13 y o, hepaCAM+ cells astrocytes
+SRR2557091	HUMAN_ASTROCYTES	adult temporal lobe, 16 y o, hepaCAM+ cells astrocytes
+SRR2557092	HUMAN_ASTROCYTES	adult temporal lobe, 21 y o, hepaCAM+ cells astrocytes
+SRR2557093	HUMAN_ASTROCYTES	adult temporal lobe, 22 y o, hepaCAM+ cells astrocytes
+SRR2557094	HUMAN_ASTROCYTES	adult temporal lobe, 35 y o, hepaCAM+ cells astrocytes
+SRR2557095	HUMAN_ASTROCYTES	adult temporal lobe, 47 y o, hepaCAM+ cells astrocytes
+SRR2557096	HUMAN_ASTROCYTES	adult temporal lobe, 51 y o, hepaCAM+ cells astrocytes
+SRR2557097	HUMAN_ASTROCYTES	adult temporal lobe, 53 y o, hepaCAM+ cells astrocytes
+SRR2557098	HUMAN_ASTROCYTES	adult temporal lobe, 60 y o, hepaCAM+ cells astrocytes
+SRR2557099	HUMAN_ASTROCYTES	adult temporal lobe, 63 y o, hepaCAM+ cells astrocytes
+SRR2557100	HUMAN_ASTROCYTES	adult temporal lobe, 63 y o, hepaCAM+ cells astrocytes
+SRR2557105	HUMAN_ASTROCYTES	hippocampus, 21 y o, hepaCAM+ cells astrocytes
+SRR2557106	HUMAN_ASTROCYTES	hippocampus, 22 y o, hepaCAM+ cells astrocytes
+SRR2557107	HUMAN_ASTROCYTES	hippocampus, 53 y o, hepaCAM+ cells astrocytes
+SRR2557108	HUMAN_ASTROCYTES	hippocampus, 53 y o, hepaCAM+ cells astrocytes
+SRR2557114	HUMAN_OLIGODENDROCYTES	adult temporal lobe, 22 y o, GalC+ cells oligodendrocytes
+SRR2557115	HUMAN_OLIGODENDROCYTES	adult temporal lobe, 63 y o, GalC+ cells oligodendrocytes
+SRR2557116	HUMAN_OLIGODENDROCYTES	adult temporal lobe, 63 y o, GalC+ cells oligodendrocytes
+SRR2557117	HUMAN_OLIGODENDROCYTES	adult temporal lobe, 47 y o, GalC+ cells oligodendrocytes
+SRR2557118	HUMAN_OLIGODENDROCYTES	adult temporal lobe, 63 y o, GalC+ cells oligodendrocytes
+SRR3749336	HUMAN_NEURAL_STEM_CELLS	Neural Stem Cells, fetal brain derived neural stem cells, 12 weeks old fetal brain tissue
+SRR3749337	HUMAN_NEURAL_STEM_CELLS	Neural Stem Cells, fetal brain derived neural stem cells, 12 weeks old fetal brain tissue
+SRR1586371	HUMAN_NEURAL_STEM_CELLS	neural stem cels, WT
+SRR1586372	HUMAN_NEURAL_STEM_CELLS	neural stem cels, WT
+SRR1273697	HUMAN_NEURAL_STEM_CELLS	human neural stem cells
+SRR1273698	HUMAN_NEURAL_STEM_CELLS	human neural stem cells
+SRR1273699	HUMAN_NEURAL_STEM_CELLS	human Neural Stem Cells, 48 hours after transfection with with EV
+SRR1273700	HUMAN_NEURAL_STEM_CELLS	human Neural Stem Cells, 48 hours after transfection with with EV
+SRR1273701	HUMAN_NEURAL_STEM_CELLS	human Neural Stem Cells, 48 hours after transfection with with EV
+SRR1273702	HUMAN_NEURAL_STEM_CELLS	human Neural Stem Cells, 48 hours after transfection with with EV
+SRR517998	HUMAN_NEURAL_STEM_CELLS	H1-NSC- total RNA extraction
+SRR3931126	HUMAN_BREAST_CANCER	MDA-MB-231, no treamemt, breast cancer line
+SRR3931128	HUMAN_BREAST_CANCER	T-47D, no treatment, breast cancer line
+SRR2959516	HUMAN_BREAST_CANCER	MCF7L breast cancer line
+SRR2759114	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759115	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759116	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759117	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759118	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759119	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759120	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759121	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with ribo-zero
+SRR2759122	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR2759123	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR2759124	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR2759126	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR2759127	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR2759128	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR2759129	HUMAN_BREAST_CANCER	Breast Cancer FFPE specimen extracted with RNAase
+SRR3082413	HUMAN_BREAST_CANCER	MDA-MB-231  breast cancer cells expressing a control shRNA
+SRR3082414	HUMAN_BREAST_CANCER	MDA-MB-231  breast cancer cells expressing a control shRNA
+SRR3418815	HUMAN_BREAST_CANCER	Tam resistant MCF7 breast cancer cell line, empty vector control
+SRR3418919	HUMAN_BREAST_CANCER	Tam resistant MCF7 breast cancer cell line, empty vector control
+SRR3418990	HUMAN_BREAST_CANCER	Tam resistant MCF7 breast cancer cell line, empty vector control
+SRR3392354	HUMAN_BREAST_CANCER	luminal estrogen receptor positive cancer cell line
+SRR3392356	HUMAN_BREAST_CANCER	luminal estrogen receptor positive cancer cell line
+SRR3392358	HUMAN_BREAST_CANCER	triple negative, xenograft of breast tumorigenic cell line MCF10AT
+SRR3392360	HUMAN_BREAST_CANCER	HER2 positive cancer cell line
+SRR3392362	HUMAN_BREAST_CANCER	triple negative cancer cell line
+SRR3188079	HUMAN_BREAST_CANCER	MCF-7 cell line untreated
+SRR3188080	HUMAN_BREAST_CANCER	MCF-7 cell line untreated
+SRR3188081	HUMAN_BREAST_CANCER	MCF-7 cell line untreated
+SRR3350923	HUMAN_BREAST_CANCER	MCF-7 cell line under 21% oxygen
+SRR3350925	HUMAN_BREAST_CANCER	MCF-7 cell line under 21% oxygen
+SRR3350927	HUMAN_BREAST_CANCER	MCF-7 cell line under 21% oxygen
+SRR2927546	HUMAN_BREAST_CANCER	HCC1419, breast cancer cell line, TNM stage IIIA, grade 3, primary ductal carcinoma
+SRR2927547	HUMAN_BREAST_CANCER	HCC1419, breast cancer cell line, TNM stage IIIA, grade 3, primary ductal carcinoma
+SRR3182145	HUMAN_BREAST_CANCER	MCF7, p9, treated with EtOH
+SRR3182155	HUMAN_BREAST_CANCER	MCF7, p9, treated with EtOH
+SRR3182165	HUMAN_BREAST_CANCER	MCF7, p10, treated with EtOH
+SRR3986921	HUMAN_BREAST_CANCER	MCF7, untreated, WT
+SRR3986933	HUMAN_BREAST_CANCER	MCF7, untreated, WT
+SRR3986945	HUMAN_BREAST_CANCER	MCF7, untreated, WT
+SRR2218135	HUMAN_BREAST_CANCER	MDA-MB-231 human breast cancer cell lines
+SRR2218136	HUMAN_BREAST_CANCER	MDA-MB-231 human breast cancer cell lines
+SRR3073499	HUMAN_BREAST_CANCER	MCF-7, transfected with scrambled control siRNA treated with vehcile
+SRR3073500	HUMAN_BREAST_CANCER	MCF-7, transfected with scrambled control siRNA treated with vehcile
+SRR3073501	HUMAN_BREAST_CANCER	MCF-7, transfected with scrambled control siRNA treated with vehcile
+SRR3089084	HUMAN_BREAST_CANCER	MCF-7 breast cancer cells treated with DMSO
+SRR3089085	HUMAN_BREAST_CANCER	MCF-7 breast cancer cells treated with DMSO
+SRR3089086	HUMAN_BREAST_CANCER	MCF-7 breast cancer cells treated with DMSO
+SRR3089087	HUMAN_BREAST_CANCER	MCF-7 breast cancer cells treated with DMSO
+SRR3583291	HUMAN_BREAST_CANCER	breast tumor_MCF7_control, ethanol treated for 4 hrs
+SRR3583293	HUMAN_BREAST_CANCER	breast tumor_BT474_control, ethanol treated for 4 hrs
+SRR2651086	HUMAN_BREAST_CANCER	MDA-MB-231 breast cancer line
+SRR2651087	HUMAN_BREAST_CANCER	MDA-MB-231 breast cancer line
+SRR3189432	HUMAN_BREAST_CANCER	LV-M100 (sublcone of MDA-MB-231), control siRNA
+SRR3189433	HUMAN_BREAST_CANCER	LV-M100 (sublcone of MDA-MB-231), control siRNA
+SRR8439938	HUMAN_AML_KASUMI_CELLS	KSCR_1
+SRR8439939	HUMAN_AML_KASUMI_CELLS	KSCR_2
+SRR8439940	HUMAN_AML_KASUMI_CELLS	KSCR_3
+SRR5938372	HUMAN_AML_KASUMI_CELLS	Kasumi1_RNAseq_1_CTRLminus
+SRR5938376	HUMAN_AML_KASUMI_CELLS	Kasumi1_RNAseq_2_CTRLminus
+SRR6260992	HUMAN_AML_KASUMI_CELLS	KASUMI1_DMSO_1
+SRR6260993	HUMAN_AML_KASUMI_CELLS	KASUMI1_DMSO_2
+SRR6260994	HUMAN_AML_KASUMI_CELLS	KASUMI1_DMSO_3
+SRR2145735	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R1
+SRR2145736	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R1
+SRR2145737	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R1
+SRR2145738	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R1
+SRR2145751	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R2
+SRR2145753	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R2
+SRR2145754	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R2
+SRR2145752	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_72h_R2
+SRR2145819	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_1uM_24h_R1
+SRR2145820	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_1uM_24h_R1
+SRR2145821	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_1uM_24h_R1
+SRR2145831	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_1uM_24h_R2
+SRR2145832	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_1uM_24h_R2
+SRR2145833	HUMAN_AML_KASUMI_CELLS	Kasumi1_DMSO_1uM_24h_R2
